@@ -1,26 +1,70 @@
 <h1 align="center">Hello, I'm ssrtw 👋</h1>
-<h3 align="center">Software Engineer come from Taiwan.</h3>
+<h3 align="center">Software Engineer from Taiwan. Interested in exploring programming topics and eager to learn new technologies to stay current with trends.</h3>
 
 ### Languages & Technologies
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,go,rust,php,js,html,css" height="35" alt="languages logo" />
-
-<img src="https://skillicons.dev/icons?i=docker,postgres,redis,rabbitmq,selenium,fastapi,arduino,threejs" height="35" alt="skillicon packages logo" />
-<div style="padding-left: 3px;display: inline; background-color: #242938;border-radius: 5px;display: inline-block; height: 35px; width: 35px;">
-  <img src="https://avatars.githubusercontent.com/u/83768144" alt="polars logo" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="35" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="35" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=java" height="35" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=python" height="35" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=go" height="35" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=rust" height="35" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=php" height="35" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=js" height="35" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=html" height="35" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=css" height="35" />
+</div>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker" height="35" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="35" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=redis" height="35" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="35" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="35" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="35" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="35" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="35" />
+  <img width="5" />
+  <img src="https://avatars.githubusercontent.com/u/83768144" alt="polars logo" height="35" />
 </div>
 
 ### Development Environment & Tools
 
-<img src="https://skillicons.dev/icons?i=windows,vscode" height="35" alt="devenv logo" />
-<div style="padding-left: 3px;display: inline; background-color: #242938;border-radius: 5px;display: inline-block; height: 35px; width: 35px;">
-  <img src="https://raw.githubusercontent.com/microsoft/terminal/refs/heads/main/res/terminal/Terminal.svg" alt="zsh logo" style="height: 85%; padding: 2px;" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=windows" height="35" alt="devenv logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" />
+  <img width="5" />
+  <img src="https://raw.githubusercontent.com/microsoft/terminal/refs/heads/main/res/terminal/Terminal.svg" alt="zsh logo" height="35" width="35"/>
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="35" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=git" height="35" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=github" height="35" />
+  <img width="5" />
+  <img src="https://docs.astral.sh/uv/assets/logo-letter.svg" alt="uv logo" height="35" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=vite" height="35" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=npm" height="35" />
 </div>
-<img src="https://skillicons.dev/icons?i=ubuntu,git,github" height="35" alt="devenv logo" />
-<div style="padding-left: 3px;display: inline; background-color: #242938;border-radius: 5px;display: inline-block; height: 35px; width: 35px;">
-  <img src="https://docs.astral.sh/uv/assets/logo-letter.svg" alt="uv logo" style="height: 85%; padding: 2px;" />
-</div>
-<img src="https://skillicons.dev/icons?i=vite,npm" height="35" alt="devenv logo" />
 
 ###
 
